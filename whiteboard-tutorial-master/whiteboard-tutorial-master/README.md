@@ -1,17 +1,16 @@
-# Getting Started with Create React App
+Project Name: React Whiteboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Description:
+A real-time interactive whiteboard built with React, allowing users to draw, write, and collaborate seamlessly. Features include multiple drawing tools, color options, and an intuitive user interface for a smooth experience. Perfect for online brainstorming, teaching, or note-taking.
 
-## Available Scripts
+Key Technologies: React.js, HTML5 Canvas, CSS, JavaScript
 
-In the project directory, you can run:
+Features:
 
-### `npm start`
+Draw and erase freely on the canvas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Choose colors and brush sizes
 
+Clear and reset board functionality
 
-
-
-
+Responsive and user-friendly interface
